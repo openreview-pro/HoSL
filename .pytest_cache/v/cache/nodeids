@@ -1,0 +1,5 @@
+[
+  "tests/visualization/test_feature.py::test_draw_in_euclidean_space",
+  "tests/visualization/test_geometry.py::test_radian_from_atan",
+  "tests/visualization/test_visualize.py::test_vis_bipartite_graph"
+]
