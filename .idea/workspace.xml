@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6dfb7e4f-2c10-40c0-b1e5-86f1fea02a46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2pn3BM8KnxvtNax0OGqQm1ubFUL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.HGNN_cora">
+    <configuration name="HGNN_cora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepHypergraph-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepHypergraph-main/examples/node_classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepHypergraph-main/examples/node_classification/HGNN_cora.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HGNN_cora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepHypergraph-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepHypergraph-main/examples/node_classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepHypergraph-main/examples/node_classification/HGNN_cora.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HGNN_cora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepHypergraph-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepHypergraph-main/examples/node_classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepHypergraph-main/examples/node_classification/HGNN_cora.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hgnn_on_cora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepHypergraph-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepHypergraph-main/examples/node_classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepHypergraph-main/examples/node_classification/hgnn_on_cora.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hgnn_on_cora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepHypergraph-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepHypergraph-main/examples/node_classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepHypergraph-main/examples/node_classification/hgnn_on_cora.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.HGNN_cora" />
+        <item itemvalue="Python.hgnn_on_cora" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\LrqRuiQin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dfb7e4f-2c10-40c0-b1e5-86f1fea02a46" name="Default Changelist" comment="" />
+      <created>1733387875661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733387875661</updated>
+      <workItem from="1733387876814" duration="1920000" />
+      <workItem from="1733398826982" duration="1876000" />
+      <workItem from="1733407605573" duration="330000" />
+      <workItem from="1733450314436" duration="911000" />
+      <workItem from="1733491921383" duration="1915000" />
+      <workItem from="1733494326723" duration="1039000" />
+      <workItem from="1733495714526" duration="1066000" />
+      <workItem from="1733538568556" duration="1714000" />
+      <workItem from="1733540330431" duration="583000" />
+      <workItem from="1733541853058" duration="890000" />
+      <workItem from="1733546000428" duration="3235000" />
+      <workItem from="1733549471352" duration="1512000" />
+      <workItem from="1733733292178" duration="2137000" />
+      <workItem from="1733736040086" duration="3380000" />
+      <workItem from="1733749434866" duration="661000" />
+      <workItem from="1733751014155" duration="3629000" />
+      <workItem from="1733755841016" duration="3259000" />
+      <workItem from="1733819927226" duration="1230000" />
+      <workItem from="1733821349953" duration="2780000" />
+      <workItem from="1733824211359" duration="421000" />
+      <workItem from="1733825416820" duration="661000" />
+      <workItem from="1733827005649" duration="5477000" />
+      <workItem from="1733837687373" duration="2014000" />
+      <workItem from="1733840413832" duration="1915000" />
+      <workItem from="1733844111609" duration="3892000" />
+      <workItem from="1733883419521" duration="4305000" />
+      <workItem from="1733888545014" duration="963000" />
+      <workItem from="1733900809172" duration="6575000" />
+      <workItem from="1733910141539" duration="3212000" />
+      <workItem from="1733968187543" duration="2522000" />
+      <workItem from="1733972688589" duration="612000" />
+      <workItem from="1733973669820" duration="358000" />
+      <workItem from="1733974370985" duration="2851000" />
+      <workItem from="1733978454232" duration="3622000" />
+      <workItem from="1733984357145" duration="2065000" />
+      <workItem from="1734004121709" duration="396000" />
+      <workItem from="1734004583876" duration="3780000" />
+      <workItem from="1734009176585" duration="1515000" />
+      <workItem from="1734055145723" duration="386000" />
+      <workItem from="1734055811552" duration="3569000" />
+      <workItem from="1734078780803" duration="2342000" />
+      <workItem from="1734081197091" duration="606000" />
+      <workItem from="1734089195088" duration="3446000" />
+      <workItem from="1734095415123" duration="678000" />
+      <workItem from="1734334675577" duration="599000" />
+      <workItem from="1734351431937" duration="593000" />
+      <workItem from="1734403939498" duration="595000" />
+      <workItem from="1734418976470" duration="596000" />
+      <workItem from="1734602129396" duration="596000" />
+      <workItem from="1734613052370" duration="583000" />
+      <workItem from="1734764151287" duration="595000" />
+      <workItem from="1735613461369" duration="668000" />
+      <workItem from="1735898241079" duration="602000" />
+      <workItem from="1736241783909" duration="1210000" />
+      <workItem from="1736581637281" duration="931000" />
+      <workItem from="1737026855165" duration="129000" />
+      <workItem from="1737169499040" duration="297000" />
+      <workItem from="1737170155456" duration="1731000" />
+      <workItem from="1737990089107" duration="313000" />
+      <workItem from="1737991288020" duration="456000" />
+      <workItem from="1737992158227" duration="367000" />
+      <workItem from="1737993649088" duration="596000" />
+      <workItem from="1739386551250" duration="309000" />
+      <workItem from="1739542054580" duration="1270000" />
+      <workItem from="1739552936123" duration="594000" />
+      <workItem from="1739554027596" duration="912000" />
+      <workItem from="1742785146311" duration="35000" />
+      <workItem from="1743130232079" duration="335000" />
+      <workItem from="1746871563768" duration="1106000" />
+      <workItem from="1747041848288" duration="4927000" />
+      <workItem from="1749108090993" duration="5162000" />
+      <workItem from="1750813839934" duration="650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
